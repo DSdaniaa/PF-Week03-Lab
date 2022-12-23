@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+main(){
+int Dollar;
+int Rupees;
+int input=200;
+
+cout << "Enter Amount in dollars:";
+cin >> Dollars;
+Rupees= input * Dollars;
+cout << Rupees;
+
+}
